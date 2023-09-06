@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ![Image of REPLACE_WITH_YOUR_NAME](images/headshot.jpg "REPLACE_WITH_SHORT_DESCRIPTION")
 
 ## About Me
