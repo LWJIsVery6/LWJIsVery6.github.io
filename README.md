@@ -9,4 +9,3 @@ I am a PhD student in the UConn EEB department interested in evolutionary geneti
 
 [Contact Info](contact-info.html) 
 
-theme: cayman
