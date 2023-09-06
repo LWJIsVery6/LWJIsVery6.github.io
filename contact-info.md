@@ -13,4 +13,4 @@ University of Connecticut
 Storrs, CT 06269-3043    
 U.S.A.
 
-[Back to Home](https://lwjisvery6.github.io/)
+[Back to Home](https://LWJIsVery6.github.io/)
