@@ -1,6 +1,4 @@
----
-title-heading: 'Weijun Liang'
----
+
 
 ![Image of REPLACE_WITH_YOUR_NAME](images/headshot.jpg "REPLACE_WITH_SHORT_DESCRIPTION")
 
