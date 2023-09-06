@@ -7,10 +7,10 @@ Feel free to contact me at <weijun.liang@uconn.edu>.
     
 Postal address: 
     
-Weijun Liang 
-Department of Ecology and Evolutionary Biology 
-University of Connecticut 
-Storrs, CT 06269-3043
+Weijun Liang    
+Department of Ecology and Evolutionary Biology    
+University of Connecticut    
+Storrs, CT 06269-3043    
 U.S.A.
 
 [Back to Home](https://xxxx.github.io/)
